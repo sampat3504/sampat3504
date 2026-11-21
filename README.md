@@ -43,4 +43,4 @@ https://sampat3504.github.io
 ### Connect With Me
 
 - GitHub: https://github.com/sampat3504
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/sampat-upadhyay/)
+- LinkedIn: [View LinkedIn Profile](https://www.linkedin.com/in/sampat-upadhyay/)
